@@ -13,7 +13,7 @@ When working with big sets of data it is always important to review the processe
 This is even more critical when using nested equations and conversation of data (ex. Date from Linux to regular calendar). One issue that 
 was encountered in the analysis process was Fixing the Value of equations. 
 
-[Error Sample Image]
+![Error Sample](https://user-images.githubusercontent.com/85839235/123565968-8879a980-d78c-11eb-9ccc-ffe8a7509833.png)
 
 ### Example
 As example, when retrieving the counts for Successful campaigns from a different worksheet I originally missed Fixing the data on the 3rd 
@@ -26,6 +26,8 @@ The analysis for the relation between Theater Campaigns and Launch Dates provide
 
 ### Outcome based on Launch
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85839235/123565991-962f2f00-d78c-11eb-8b8c-abb58ac2471d.png)
+
 [Theater Outcome based on Launch Image]
 
 First, although there is support for Theater campaigns for most of the year, the months between April and August show a bigger percentage of 
@@ -35,6 +37,8 @@ holiday expenses. Lastly, the amounts of Successful backing for Theater campaign
 most of the year. December being the only month where their outcome is similar. 
 
 ### Outcome based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85839235/123566001-9cbda680-d78c-11eb-887d-f37bc1937832.png)
 
 [Outcome based on Goals Image]
 
