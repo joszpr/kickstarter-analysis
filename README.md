@@ -46,9 +46,9 @@ what assisted the success rate for campaigns between those thresholds.
 ### Data Considerations
 The is no information regarding recent campaigns and information from 2018-2021 was not analyzed. The current socioeconomical climate and the 
 offset of the pandemic of 2020 may influence, either positively or negatively, support received on Kickstarter. Although there has been reports 
-of pent up demand for entertainment activities ^(1,2) that shows possibility of increase support for the production of new events, it is the concern 
+of pent up demand for entertainment activities 1️⃣,2️⃣ that shows possibility of increase support for the production of new events, it is the concern 
 of still being in public settings for some people should be taken into account. There is also reports about changes of media and entertainment 
-consumption for digital mediums based on the habits developed during 2020 ^(3).  
+consumption for digital mediums based on the habits developed during 20203️⃣.  
 
 ### Recommendation
 With the limitations of the data previously shown, it may still be beneficial to look into more detail regarding the successful campaigns that 
@@ -58,9 +58,9 @@ length the campaign was active.
 
 ### Reference Links
 
-[1] https://morningconsult.com/2021/03/24/pent-up-demand-travel-restaurants-cruise-pandemic/
+[1️⃣] https://morningconsult.com/2021/03/24/pent-up-demand-travel-restaurants-cruise-pandemic/
 
-[2] https://variety.com/2021/music/news/live-nation-president-massive-concert-demand-1234992757/
+[2️⃣] https://variety.com/2021/music/news/live-nation-president-massive-concert-demand-1234992757/
 
-[3] https://www.forbes.com/sites/bradadgate/2021/04/13/the-impact-covid-19-had-on-the-entertainment-industry-in-2020/?sh=41972121250f
+[3️⃣] https://www.forbes.com/sites/bradadgate/2021/04/13/the-impact-covid-19-had-on-the-entertainment-industry-in-2020/?sh=41972121250f
 
