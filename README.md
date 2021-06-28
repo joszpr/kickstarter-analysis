@@ -28,8 +28,6 @@ The analysis for the relation between Theater Campaigns and Launch Dates provide
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85839235/123565991-962f2f00-d78c-11eb-8b8c-abb58ac2471d.png)
 
-[Theater Outcome based on Launch Image]
-
 First, although there is support for Theater campaigns for most of the year, the months between April and August show a bigger percentage of 
 financial backing. With peak support on the month of May with a decline during the summer period. Second, December is the month with the least 
 amount of financial backing, which is to be expected since it can be surmised that much of the population use their discretionary budget for 
@@ -39,8 +37,6 @@ most of the year. December being the only month where their outcome is similar.
 ### Outcome based on Goals
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/85839235/123566001-9cbda680-d78c-11eb-887d-f37bc1937832.png)
-
-[Outcome based on Goals Image]
 
 When inspecting the relation between Theater campaigns and the goal of financial support requested, two insights were discovered. First, as 
 reasonably expected, the success rate of the campaign decreases the bigger the goal is. Interestingly enough, there was a considerable number of 
