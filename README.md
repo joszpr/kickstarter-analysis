@@ -58,9 +58,9 @@ length the campaign was active.
 
 ### Reference Links
 
-[1] (https://morningconsult.com/2021/03/24/pent-up-demand-travel-restaurants-cruise-pandemic/)
+[1] https://morningconsult.com/2021/03/24/pent-up-demand-travel-restaurants-cruise-pandemic/
 
-[2] (https://variety.com/2021/music/news/live-nation-president-massive-concert-demand-1234992757/)
+[2] https://variety.com/2021/music/news/live-nation-president-massive-concert-demand-1234992757/
 
-[3] (https://www.forbes.com/sites/bradadgate/2021/04/13/the-impact-covid-19-had-on-the-entertainment-industry-in-2020/?sh=41972121250f)
+[3] https://www.forbes.com/sites/bradadgate/2021/04/13/the-impact-covid-19-had-on-the-entertainment-industry-in-2020/?sh=41972121250f
 
