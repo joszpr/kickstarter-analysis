@@ -15,7 +15,7 @@ was encountered in the analysis process was Fixing the Value of equations.
 
 ![Error Sample](https://user-images.githubusercontent.com/85839235/123565968-8879a980-d78c-11eb-9ccc-ffe8a7509833.png)
 
-### Example
+#### Example of Challenge
 As example, when retrieving the counts for Successful campaigns from a different worksheet I originally missed Fixing the data on the 3rd 
 and 4th criteria of an equation. It successfully worked in the first cell of data but returned different values from what was desired in the
 original worksheet when the formula was passed to different cells. By fixing the value in the equation, I was able to use the same equation 
