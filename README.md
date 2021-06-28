@@ -43,7 +43,7 @@ reasonably expected, the success rate of the campaign decreases the bigger the g
 Successful campaigns that had goals between $35,000 and $45,000 that were outside of the trend. Further research is suggested in order to identify 
 what assisted the success rate for campaigns between those thresholds. 
 
-### Data Considerations
+### Considerations
 The is no information regarding recent campaigns and information from 2018-2021 was not analyzed. The current socioeconomical climate and the 
 offset of the pandemic of 2020 may influence, either positively or negatively, support received on Kickstarter. Although there has been reports 
 of pent up demand for entertainment activities 1️⃣,2️⃣ that shows possibility of increase support for the production of new events, it is the concern 
