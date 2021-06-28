@@ -25,7 +25,9 @@ with minimal modifications when trying to use different criteria.
 The analysis for the relation between Theater Campaigns and Launch Dates provided insights that may be beneficial in organizing future campaigns. 
 
 ### Outcome based on Launch
+
 [Theater Outcome based on Launch Image]
+
 First, although there is support for Theater campaigns for most of the year, the months between April and August show a bigger percentage of 
 financial backing. With peak support on the month of May with a decline during the summer period. Second, December is the month with the least 
 amount of financial backing, which is to be expected since it can be surmised that much of the population use their discretionary budget for 
@@ -33,7 +35,9 @@ holiday expenses. Lastly, the amounts of Successful backing for Theater campaign
 most of the year. December being the only month where their outcome is similar. 
 
 ### Outcome based on Goals
+
 [Outcome based on Goals Image]
+
 When inspecting the relation between Theater campaigns and the goal of financial support requested, two insights were discovered. First, as 
 reasonably expected, the success rate of the campaign decreases the bigger the goal is. Interestingly enough, there was a considerable number of 
 Successful campaigns that had goals between $35,000 and $45,000 that were outside of the trend. Further research is suggested in order to identify 
@@ -53,7 +57,7 @@ identify if there is any pattern on bigger support for specific regions countrie
 length the campaign was active.
 
 ### Reference Links
-1 https://morningconsult.com/2021/03/24/pent-up-demand-travel-restaurants-cruise-pandemic/
-2 https://variety.com/2021/music/news/live-nation-president-massive-concert-demand-1234992757/
-3 https://www.forbes.com/sites/bradadgate/2021/04/13/the-impact-covid-19-had-on-the-entertainment-industry-in-2020/?sh=41972121250f
+[1] (https://morningconsult.com/2021/03/24/pent-up-demand-travel-restaurants-cruise-pandemic/)
+[2] (https://variety.com/2021/music/news/live-nation-president-massive-concert-demand-1234992757/)
+[3] (https://www.forbes.com/sites/bradadgate/2021/04/13/the-impact-covid-19-had-on-the-entertainment-industry-in-2020/?sh=41972121250f)
 
